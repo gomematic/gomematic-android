@@ -1,7 +1,6 @@
 # Gomematic: Android
 
-[![Build Status](http://cloud.drone.io/api/badges/gomematic/gomematic-android/status.svg)](http://cloud.drone.io/gomematic/gomematic-android)
-[![Stories in Ready](https://badge.waffle.io/gomematic/gomematic-api.svg?label=ready&title=Ready)](http://waffle.io/gomematic/gomematic-api)
+[![Build Status](https://cloud.drone.io/api/badges/gomematic/gomematic-android/status.svg)](https://cloud.drone.io/gomematic/gomematic-android)
 [![Join the Matrix chat at https://matrix.to/#/#gomematic:matrix.org](https://img.shields.io/badge/matrix-%23gomematic%3Amatrix.org-7bc9a4.svg)](https://matrix.to/#/#gomematic:matrix.org)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/10f695d30f884896be2a170fa4db7757)](https://www.codacy.com/app/gomematic/gomematic-android?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gomematic/gomematic-android&amp;utm_campaign=Badge_Grade)
 
